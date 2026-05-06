@@ -1,10 +1,12 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7f00ff&height=200&section=header&text=Faisal%20Nadeem&fontSize=45&fontAlignY=35&animation=fadeIn" />
 <h1 align="center">Hi 👋, I'm Faisal Nadeem</h1>
-<h3 align="center">Frontend Developer • UI/UX Designer • DevOps Enthusiast</h3>
+<h3 align="center">UI/UX Designer • Frontend Developer • DevOps Engineer</h3>
 
 <p align="center">
-  <a href="https://faisalnadeem.xyz">Portfolio</a> •
-  <a href="https://github.com/">GitHub</a> •
-  <a href="https://linkedin.com/">LinkedIn</a>
+  <a target="_blank" href="https://faisalnadeem.xyz">Portfolio</a> •
+  <a target="_blank" href="https://github.com/faisal-dev786">GitHub</a> •
+  <a target="_blank" href="https://www.linkedin.com/in/build-with-faisal/">LinkedIn</a>
 </p>
 
 ---
@@ -14,10 +16,11 @@
 I'm a passionate Frontend Developer and DevOps Enthusiast from Pakistan who loves building modern, responsive, and user-focused web applications. I specialize in creating clean UI/UX experiences while also exploring cloud infrastructure, CI/CD pipelines, Docker, and Linux server deployments.
 
 - 🌐 Portfolio: https://faisalnadeem.xyz
-- 💻 2+ years of frontend development experience
-- ⚡ Currently learning advanced DevOps & Cloud technologies
-- 🚀 Interested in CI/CD, Docker, Kubernetes, and AWS
-- 🎯 Focused on performance, scalability, and clean design
+- 🌐 Building modern web experiences with clean UI and responsive design
+- ⚙️ Exploring DevOps practices including CI/CD, Docker, Linux, and cloud deployment
+- 🚀 Passionate about creating scalable, high-performance applications
+- 💡 Combining frontend development with automation and deployment workflows
+- 🎯 Focused on user experience, performance optimization, and modern technologies
 
 ---
 
@@ -71,9 +74,9 @@ Deployed and managed websites on Linux servers with Nginx configuration.
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://faisalnadeem.xyz" target="_blank">🌐 Portfolio</a><br/>
-  <a href="https://linkedin.com/" target="_blank">💼 LinkedIn</a><br/>
-  <a href="mailto:your@email.com">📧 Email</a>
+  <a target="_blank" href="https://faisalnadeem.xyz" target="_blank">🌐 Portfolio</a><br/>
+  <a target="_blank" href="https://github.com/faisal-dev786" target="_blank">💼 LinkedIn</a><br/>
+  <a target="_blank" href="mailto:faisalnadeem1080@gmail.com">📧 Email</a>
 </p>
 
 ---
