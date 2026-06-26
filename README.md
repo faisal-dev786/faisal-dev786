@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7f00ff&height=200&section=header&text=Faisal%20Nadeem&fontSize=45&fontAlignY=35&animation=fadeIn" />
 <h1 align="center">Hi 👋, I'm Faisal Nadeem</h1>
-<h3 align="center">UI/UX Designer • Frontend Developer • DevOps Engineer</h3>
+<h3 align="center">Frontend Developer • DevOps & Cloud Engineer</h3>
 
 <p align="center">
   <a target="_blank" href="https://faisalnadeem.xyz">Portfolio</a> •
@@ -15,7 +15,7 @@
 
 I'm a passionate Frontend Developer and DevOps Enthusiast from Pakistan who loves building modern, responsive, and user-focused web applications. I specialize in creating clean UI/UX experiences while also exploring cloud infrastructure, CI/CD pipelines, Docker, and Linux server deployments.
 
-- 🌐 Portfolio: https://faisalnadeem.xyz
+- 🌐 Portfolio: https://faisalnadeem.site
 - 🌐 Building modern web experiences with clean UI and responsive design
 - ⚙️ Exploring DevOps practices including CI/CD, Docker, Linux, and cloud deployment
 - 🚀 Passionate about creating scalable, high-performance applications
@@ -46,7 +46,7 @@ I'm a passionate Frontend Developer and DevOps Enthusiast from Pakistan who love
 ## 📌 Featured Projects
 
 ### 🔹 Portfolio Website
-Personal portfolio showcasing my frontend and UI/UX projects.
+Personal portfolio showcasing my frontend and devops projects.
 
 ### 🔹 Dockerized Web Applications
 Containerized applications using Docker for consistent deployment workflows.
